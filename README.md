@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**About the project**
 
-## Getting Started
+This project is a microservice of my routine. Is the front-end of my-storage.
 
-First, run the development server:
+**Technologies and concepts involved**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- React & front-end _(Soon)_
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Project progress and activities**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+_Soon..._
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Run the project (Just with docker)**
 
-## Learn More
+_Soon..._
 
-To learn more about Next.js, take a look at the following resources:
+**Install the project to develop**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+_Soon..._
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+**Releases**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+_Soon..._
