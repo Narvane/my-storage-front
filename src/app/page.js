@@ -1,11 +1,6 @@
 'use client'
-import styles from './page.module.css'
 import '@fontsource/roboto/400.css';
-import Button from '@mui/material/Button';
 import Typography from "@mui/material/Typography";
-import {styled} from "@mui/material/styles";
-import {Container} from "@mui/material";
-
 
 
 export default function Home() {
